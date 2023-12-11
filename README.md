@@ -30,7 +30,7 @@ Review:
 <br>
 <p float="left">
 
-<img src="https://github.com/rahulpro1012/movie-backend/blob/main/review.png?raw=true" width="750" height="450" hspace="20" />
+<img src="https://github.com/rahulpro1012/movie-backend/blob/main/review.png?raw=true" width="850" height="450" hspace="20" />
 
 </p>
 
